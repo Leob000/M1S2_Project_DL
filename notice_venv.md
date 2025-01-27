@@ -18,4 +18,5 @@ Install packages from a requirements file:
 List packages:
 `pip list`
 
-test 
+Remake requirements.txt:
+`pip freeze > requirements.txt`
