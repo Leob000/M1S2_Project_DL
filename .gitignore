@@ -1,6 +1,24 @@
 # Mystuff
 docu_cours/
 
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fls
+*.fdb_latexmk
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.synctex.gz
+*.dvi
+*.nav
+*.snm
+*.vrb
+
 # macOS
 .DS_Store
 .AppleDouble
