@@ -64,3 +64,6 @@ checkpoints/
 # Other
 *.swp
 *.swo
+
+# data
+data/
