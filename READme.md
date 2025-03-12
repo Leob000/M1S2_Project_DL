@@ -1,4 +1,9 @@
 # Todo
+- Rapport
+- Sur quel dataset? Idem que l'article/Réduction de types d'objets/Réduction de résolution
+- Quelle application? Quelle interactivité?
+    - Visualisation des tSNE?
+
 - Ne pas oublier de mettre un graph de comparaison de performance sur jeux de donnée classiques?
 - Docu avec sphinx? Voir quel format de docstrings, extension vscode docstrings auto?
 - Problème du training GPU poor:
