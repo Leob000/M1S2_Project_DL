@@ -33,7 +33,7 @@ wget https://dl.fbaipublicfiles.com/clevr/CLEVR_v1.0.zip -O data/CLEVR_v1.0.zip
 unzip data/CLEVR_v1.0.zip -d data
 ```
 
-To preprocess the data from pngs to a h5 file for each train/val/test set, run the following code. The data will be the raw pixels, there are options to extract features with the option `--model "resnet101` (1024x14x14 output), or to set a maximum number of processed images `--max_images X` (check `extract_features.py`).
+To preprocess the data from pngs to a h5 file for each train/val/test set, run the following code. The data will be the raw pixels, there are options to extract features with the option `--model "resnet101` (1024x14x14 output), or to set a maximum number of X processed images `--max_images X` (check `extract_features.py`).
 ```bash
 bash scripts/extract_features.sh
 ```
