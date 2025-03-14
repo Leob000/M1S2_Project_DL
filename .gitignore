@@ -1,5 +1,7 @@
 # Mystuff
-docu_cours/
+data/
+test.py
+my_stuff/
 
 # LaTeX
 *.aux
