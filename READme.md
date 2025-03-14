@@ -21,9 +21,9 @@
 - Other dependencies listed in `requirements.txt`
 
 # References
-- [Distill](https://distill.pub/2018/feature-wise-transformations/)
-- [Arxiv](https://arxiv.org/pdf/1709.07871)
-- [Github](https://github.com/ethanjperez/film)
+- The code in this repo is heavily inspired by the repos [Film](https://github.com/ethanjperez/film) and [Clever-iep](https://github.com/facebookresearch/clevr-iep)
+- [Distill: Feature wise transformations](https://distill.pub/2018/feature-wise-transformations/)
+- [Arxiv: FiLM: Visual Reasoning with a General Conditioning Layer](https://arxiv.org/pdf/1709.07871)
 
 # Get the data
 To download the data, run:
