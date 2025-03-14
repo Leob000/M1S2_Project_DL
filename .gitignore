@@ -1,7 +1,7 @@
 # Mystuff
 data/
-test.py
 my_stuff/
+testing.py
 
 # LaTeX
 *.aux
