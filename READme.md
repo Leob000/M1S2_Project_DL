@@ -37,3 +37,8 @@ To preprocess the data from pngs to a h5 file for each train/val/test set, run t
 ```bash
 bash scripts/extract_features.sh
 ```
+
+To preprocess the questions, execute this script:
+```bash
+bash scripts/preprocess_questions.sh
+```
